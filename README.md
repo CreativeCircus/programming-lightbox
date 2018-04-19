@@ -1,1 +1,1 @@
-# programming-lightbox
+# Lightbox, part 2
