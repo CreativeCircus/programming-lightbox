@@ -1,1 +1,1 @@
-# Lightbox, part 2
+# Make the lightbox work
