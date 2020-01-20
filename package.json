@@ -1,5 +1,5 @@
 {
-	"name": "circus-starter",
+	"name": "programming-lightbox",
 	"version": "1.7.2",
 	"description": "A good starting point for new Circus students",
 	"main": "gulpfile.js",
