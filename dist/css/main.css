@@ -58,7 +58,7 @@ blockquote, q {
 
 blockquote:before, blockquote:after,
 q:before, q:after {
-	content: '';
+	content: "";
 	content: none;
 }
 
@@ -101,13 +101,11 @@ body {
 	padding: 30px;
 	border-radius: 5px;
 }
-
 .lightbox img {
 	display: block;
 	max-width: 90vw;
 	max-height: 80vh;
 }
-
 .lightbox .lightbox-close {
 	position: absolute;
 	top: 0;
@@ -122,5 +120,4 @@ body {
 	background-size: contain;
 	background-image: url(../img/close-button.png);
 }
-
 /*# sourceMappingURL=main.css.map */
