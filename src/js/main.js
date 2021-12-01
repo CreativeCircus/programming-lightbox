@@ -1,3 +1,3 @@
 let lightboxLinks = document.querySelectorAll('.lightboxify')
 
-let oneLightboxLink = document.querySelector('.lightboxify')
+let firstLightboxLink = document.querySelector('.lightboxify')
