@@ -78,8 +78,8 @@ body {
 
 /* 2. Content ================================= */
 .content .thumbnail {
-	max-width: 300px;
-	max-height: 300px;
+	max-width: 120px;
+	max-height: 120px;
 }
 
 .lightbox-overlay {
